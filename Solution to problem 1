@@ -1,0 +1,7 @@
+Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
+What metric would you report for this dataset?
+What is its value?
+ANSWER -I think a there are some outliers like shop id 42, shop id 78. sneekers are cheap but incase of shopid 42 its is for much higher price. So I would like to ask shop about this data.
+I would take (total order amount)/(total items) rather than taking average of order_amount;
+Its value will be 357.92
+
